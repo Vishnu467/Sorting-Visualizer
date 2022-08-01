@@ -1,6 +1,10 @@
-# Sorting-Visualizer
+# Sorting Visualization
+### This is a simple visualization made using vanilla javascript
 
-This is simple visualization made using Javascript.
-Algorithms used are Bubble sort, Merge sort, Quick sort, Insertion sort, Selection sort.
+- Bubble Sort
+- Quick Sort
+- Merge Sort
+- Insertion Sort
+- Selection Sort
 
-Check out the visualization at: 
+Check out the Visualization over hear: https://mihirsp18.github.io/Sorting-Visualizer/
