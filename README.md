@@ -7,4 +7,4 @@
 - Insertion Sort
 - Selection Sort
 
-Check out the Visualization over here: https://vishnu467.github.io/Sorting-Visualizer/
+Check out the Visualization over here: https://vishnu467.github.io/Sort-Visualizer/
